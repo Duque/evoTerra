@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="360px" viewBox="0 0 280 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>comp/numberkeyboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-1175.000000, -1181.000000)">
+            <g id="comp/numberkeyboard" transform="translate(1175.000000, 1181.000000)">
+                <g id="tecla/numero">
+                    <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                    <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                        <tspan x="31.535" y="44">1</tspan>
+                    </text>
+                </g>
+                <g id="tecla/numero" transform="translate(0.000000, 96.000000)">
+                    <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                    <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                        <tspan x="28.115" y="44">4</tspan>
+                    </text>
+                </g>
+                <g id="tecla/numero" transform="translate(0.000000, 192.000000)">
+                    <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                    <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                        <tspan x="29.45" y="44">7</tspan>
+                    </text>
+                </g>
+                <g id="tecla/numero" transform="translate(208.000000, 0.000000)">
+                    <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                    <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                        <tspan x="27.635" y="44">3</tspan>
+                    </text>
+                </g>
+                <g id="tecla/numero" transform="translate(208.000000, 96.000000)">
+                    <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                    <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                        <tspan x="27.905" y="44">6</tspan>
+                    </text>
+                </g>
+                <g id="tecla/numero" transform="translate(208.000000, 192.000000)">
+                    <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                    <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                        <tspan x="27.785" y="44">9</tspan>
+                    </text>
+                </g>
+                <g id="tecla/numero" transform="translate(104.000000, 0.000000)">
+                    <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                    <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                        <tspan x="27.8" y="44">2</tspan>
+                    </text>
+                </g>
+                <g id="tecla/numero" transform="translate(104.000000, 96.000000)">
+                    <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                    <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                        <tspan x="28.025" y="44">5</tspan>
+                    </text>
+                </g>
+                <g id="tecla/numero" transform="translate(104.000000, 192.000000)">
+                    <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                    <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                        <tspan x="27.275" y="44">8</tspan>
+                    </text>
+                </g>
+                <g id="tecla/numero" transform="translate(104.000000, 288.000000)">
+                    <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                    <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                        <tspan x="27.59" y="44">0</tspan>
+                    </text>
+                </g>
+                <g id="icon/erase" transform="translate(226.000000, 312.000000)" stroke="#030B3C" stroke-width="1">
+                    <path d="M11.0732007,1.30318293e-12 L36,0 C36.5522847,-3.14952064e-14 37,0.44771525 37,1 L37,23 C37,23.5522847 36.5522847,24 36,24 L11.0732007,24 C10.7868513,24 10.5142401,23.8772452 10.3244371,23.6628372 L0.586771537,12.6628372 C0.251789608,12.2844302 0.251789608,11.7155698 0.586771537,11.3371628 L10.3244371,0.33716281 C10.5142401,0.122754848 10.7868513,1.31658665e-12 11.0732007,1.30229161e-12 Z" id="Rectangle"></path>
+                    <g id="icon/cancel/small" transform="translate(18.500000, 7.000000)" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M0.25,0.25 L9.75,9.75" id="Stroke-1"></path>
+                        <path d="M0.25,9.75 L9.75,0.25" id="Stroke-3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

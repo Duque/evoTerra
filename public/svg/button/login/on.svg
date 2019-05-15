@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="279px" height="48px" viewBox="0 0 279 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>button/login/on</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-704.000000, -328.000000)">
+            <g id="button/login/on" transform="translate(704.000000, 328.000000)">
+                <rect id="Rectangle" fill="#037DF9" fill-rule="evenodd" x="0" y="0" width="279" height="48" rx="24"></rect>
+                <text id="Registrarme" font-family="Karla-Bold, Karla" font-size="16" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="92.792" y="29">Registrarme</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

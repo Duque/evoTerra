@@ -1,0 +1,28 @@
+.rd_primary-heading {
+  .rd_primary-heading__cnt-general {
+    @media screen and (max-width: 767px) {
+      min-height: calc(100vh - 56px);
+    }
+    @media screen and (min-width: 768px) {
+      min-height: calc(100vh - 72px);
+    }
+    @media screen and (min-width: 992px) {
+      min-height: calc(100vh - 72px);
+    }
+  }
+
+  .rd_primary-heading__img-app-cnt {
+    height: 100%;
+
+    .rd_primary-heading__img-app {
+      @media screen and (max-width: 767px) {
+        width: 50%;
+      }
+      @media screen and (min-width: 768px) {
+        max-height: 75%;
+        max-width: inherit;
+        position: absolute;
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "evoTerra",
+  "version": "0.0.1",
+  "description": "EvoTerra es una guía multimedia que trata de mostrar la evolución de la vida en la tierra desde el cominezo de los tiempos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Raúl Duque & Daniel Duque - evolution",
+  "email": "info@evoterra.info",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-nunjucks-render": "^2.2.2",
+    "gulp-remove-empty-lines": "^0.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

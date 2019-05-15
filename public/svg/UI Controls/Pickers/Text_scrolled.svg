@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="376px" height="261px" viewBox="0 0 376 261" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>UI Controls / Pickers / Text_scrolled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="375" height="44"></rect>
+        <filter x="-0.1%" y="-0.6%" width="100.1%" height="101.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.882352941   0 0 0 0 0.878431373   0 0 0 0 0.878431373  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="0 44 0 261 375 261 375 44"></polygon>
+        <filter x="-0.1%" y="-0.1%" width="100.1%" height="100.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.816751701   0 0 0 0 0.816751701   0 0 0 0 0.816751701  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="61.6953125%" id="linearGradient-5">
+            <stop stop-color="#9D9D9D" offset="0%"></stop>
+            <stop stop-color="#9D9D9D" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="30.5078125%" x2="50%" y2="66.0625%" id="linearGradient-6">
+            <stop stop-color="#9D9D9D" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#9D9D9D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-105.000000, -4130.000000)">
+            <g id="UI-Controls-/-Pickers-/-Text_scrolled" transform="translate(106.000000, 4130.000000)">
+                <g id="done-bar" stroke-width="1" fill-rule="evenodd">
+                    <g>
+                        <use fill="#D6D9DE" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="Done" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="15" font-weight="400" fill="#007AFF">
+                        <tspan x="323" y="28">Done</tspan>
+                    </text>
+                    <polygon id="Safari-Back" fill="#017BFF" transform="translate(69.250000, 21.250000) scale(-1, 1) rotate(-90.000000) translate(-69.250000, -21.250000) " points="78.5 25.4385308 77.4310337 26.5 69.0068007 18.6234388 61.0684626 26.5 60 25.4385308 69.0068007 16 69.920107 16.9073284 70.075767 17.0619696"></polygon>
+                    <polygon id="Safari-Back" fill="#017BFF" transform="translate(26.250000, 21.250000) rotate(-90.000000) translate(-26.250000, -21.250000) " points="35.5 25.4385308 34.4310337 26.5 26.0068007 18.6234388 18.0684626 26.5 17 25.4385308 26.0068007 16 26.920107 16.9073284 27.075767 17.0619696"></polygon>
+                </g>
+                <g id="background">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                </g>
+                <path d="M0,135 L374.708658,135" id="Line" stroke="#ABA9A2" stroke-width="0.5" stroke-linecap="square"></path>
+                <path d="M0,170 L374.708658,170" id="Line" stroke="#A4A6A6" stroke-width="0.5" stroke-linecap="square"></path>
+                <text id="seven" fill-opacity="0.5" fill="url(#linearGradient-5)" fill-rule="evenodd" font-family="HelveticaNeue, Helvetica Neue" font-size="21" font-weight="normal">
+                    <tspan x="158.331" y="249">Seven</tspan>
+                </text>
+                <text id="six" opacity="0.6" font-family="HelveticaNeue, Helvetica Neue" font-size="21" font-weight="normal" fill="#9D9D9D">
+                    <tspan x="172.926" y="222">Six</tspan>
+                </text>
+                <text id="five" font-family="HelveticaNeue, Helvetica Neue" font-size="21" font-weight="normal" fill="#9D9D9D">
+                    <tspan x="168.2535" y="195">Five</tspan>
+                </text>
+                <text id="four" font-family="HelveticaNeue, Helvetica Neue" font-size="23" font-weight="normal" fill="#292929">
+                    <tspan x="164.0745" y="160">Four</tspan>
+                </text>
+                <text id="three" font-family="HelveticaNeue, Helvetica Neue" font-size="21" font-weight="normal" fill="#9D9D9D">
+                    <tspan x="161.0505" y="124">Three</tspan>
+                </text>
+                <text id="two" opacity="0.6" font-family="HelveticaNeue, Helvetica Neue" font-size="21" font-weight="normal" fill="#9D9D9D">
+                    <tspan x="168.6525" y="94">Two</tspan>
+                </text>
+                <text id="one" fill-opacity="0.5" fill="url(#linearGradient-6)" fill-rule="evenodd" font-family="HelveticaNeue, Helvetica Neue" font-size="21" font-weight="normal">
+                    <tspan x="168.0435" y="65">One</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

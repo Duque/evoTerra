@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="343px" height="46px" viewBox="0 0 343 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>comp/list/recibidos</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <pattern id="pattern-1" patternUnits="objectBoundingBox" x="0%" width="100%" height="100%">
+            <use xlink:href="#image-2" transform="scale(0.8,0.8)"></use>
+        </pattern>
+        <image id="image-2" width="40" height="40" xlink:href="data:image/png;base64,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"></image>
+    </defs>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-469.000000, -2225.000000)">
+            <g id="comp/list/recibidos" transform="translate(469.000000, 2225.000000)">
+                <g id="Lista-Copy">
+                    <g id="separador-16px" fill="#030B3C" fill-opacity="0.296223958">
+                        <rect id="Rectangle" transform="translate(171.500000, 0.500000) scale(1, -1) translate(-171.500000, -0.500000) " x="0" y="0" width="343" height="1"></rect>
+                    </g>
+                    <g id="persona" transform="translate(56.000000, 13.000000)">
+                        <circle id="Oval" fill="url(#pattern-1)" cx="16" cy="16" r="16"></circle>
+                        <text id="@pedromarketing" font-family="Karla-Regular, Karla" font-size="12" font-weight="normal" line-spacing="17" fill="#030B3C">
+                            <tspan x="40" y="18">@pedromarketing</tspan>
+                        </text>
+                    </g>
+                    <text id="#teambuilding" font-family="Karla-Regular, Karla" font-size="12" font-weight="normal" line-spacing="17" fill="#030B3C">
+                        <tspan x="230" y="31">#teambuilding</tspan>
+                    </text>
+                    <text id="🍻" font-family="AppleColorEmoji, Apple Color Emoji" font-size="12" font-weight="normal" line-spacing="17" fill="#030B3C">
+                        <tspan x="213" y="33">🍻</tspan>
+                    </text>
+                    <g id="+-clapps" transform="translate(8.000000, 14.000000)">
+                        <rect id="Rectangle" fill="#037DF9" x="0" y="0" width="32" height="32" rx="16"></rect>
+                        <text id="15" font-family="Karla-Bold, Karla" font-size="16" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="8.488" y="21">15</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="icon/despliega" transform="translate(319.000000, 21.000000)" stroke="#030B3C" stroke-linecap="round" stroke-linejoin="round">
+                    <g id="Group" transform="translate(4.000000, 6.000000)">
+                        <path d="M8,0 L4,4" id="Stroke-7"></path>
+                        <path d="M0,0 L4,4" id="Stroke-9"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

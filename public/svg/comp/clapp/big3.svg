@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="363px" height="414px" viewBox="0 0 363 414" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>comp/clapp/big3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="343" height="394" rx="29"></rect>
+        <filter x="-4.5%" y="-3.4%" width="109.6%" height="108.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0117647061   0 0 0 0 0.0431372561   0 0 0 0 0.235294119  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-97.000000, -555.000000)">
+            <g id="comp/clapp/big3" transform="translate(106.000000, 562.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.0541779891" stroke="#030B3C" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="342" height="393" rx="29"></rect>
+                </g>
+                <g id="focus/off" transform="translate(72.000000, 266.000000)" stroke="#037DF9" stroke-width="0.8">
+                    <rect id="Rectangle-Copy-6" x="0.4" y="0.4" width="31.2" height="31.2" rx="15.6"></rect>
+                </g>
+                <g id="icon/plus/on" transform="translate(77.000000, 270.000000)" stroke="#037DF9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+                    <path d="M11.5,1 L11.5,23" id="Stroke-1"></path>
+                    <path d="M22.5,12 L0.5,12" id="Stroke-3"></path>
+                </g>
+                <g id="focus/off" transform="translate(156.000000, 266.000000)" stroke="#037DF9" stroke-width="0.8">
+                    <rect id="Rectangle-Copy-6" x="0.4" y="0.4" width="31.2" height="31.2" rx="15.6"></rect>
+                </g>
+                <g id="icon/person/on" transform="translate(160.000000, 270.000000)" stroke="#037DF9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+                    <path d="M16,14.336352 C15.2909091,15.5951412 14.3527273,16.3604183 12.6363636,16.8372576 C9.63636364,17.6708928 6,15.1958299 6,11.8354464 C6,7.66727041 9.63636364,6 12.3636364,6 C14.1818182,6 16,6.8336352 16,7.66727041" id="Stroke-1"></path>
+                    <path d="M16.3043478,6.84615385 C15.5217391,9.15384615 15.5718261,12.2453846 15.8332174,14.7076923 C16.3043478,19.1538462 19.4347826,16.8461538 20.2956522,15.2923077 C20.856,14.2815385 21,13.0692308 21,11.8461538 C21,10.6230769 20.7495652,9.46153846 20.2956522,8.4 C19.833913,7.34615385 19.1765217,6.39230769 18.3626087,5.59230769 C17.5486957,4.79230769 16.5782609,4.14615385 15.506087,3.69230769 C14.426087,3.24615385 13.2443478,3 12,3 C10.7556522,3 9.57391304,3.24615385 8.49391304,3.69230769 C7.42173913,4.14615385 6.45130435,4.79230769 5.6373913,5.59230769 C4.82347826,6.39230769 4.16608696,7.34615385 3.70434783,8.4 C3.25043478,9.46153846 3,10.6230769 3,11.8461538 C3,13.0692308 3.25043478,14.2307692 3.70434783,15.2923077 C4.16608696,16.3461538 4.82347826,17.3 5.6373913,18.1 C6.45130435,18.9 7.42173913,19.5461538 8.49391304,20" id="Stroke-3"></path>
+                </g>
+                <g id="focus/off" transform="translate(239.000000, 266.000000)" stroke="#037DF9" stroke-width="0.8">
+                    <rect id="Rectangle-Copy-6" x="0.4" y="0.4" width="31.2" height="31.2" rx="15.6"></rect>
+                </g>
+                <g id="icon/hashtag/on" transform="translate(243.000000, 270.000000)" stroke="#037DF9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+                    <path d="M23,8.75 L3.5,5.75" id="Stroke-1"></path>
+                    <path d="M21,18.75 L1.5,15.75" id="Stroke-3"></path>
+                    <path d="M8.75,1.5 L5.75,21" id="Stroke-5"></path>
+                    <path d="M18.75,3.5 L15.75,23" id="Stroke-7"></path>
+                </g>
+                <g id="button/clappear/on" transform="translate(32.000000, 322.000000)">
+                    <rect id="Rectangle" fill="#037DF9" fill-rule="evenodd" x="0" y="0" width="279" height="48" rx="24"></rect>
+                    <text id="Registrarme" font-family="Karla-Bold, Karla" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="97.064" y="29">Clapp</tspan>
+                    </text>
+                    <g id="icon/clap2/blanco" transform="translate(161.000000, 12.000000)" fill-rule="evenodd" stroke="#FFFFFF" stroke-linecap="round" stroke-width="1">
+                        <g id="Group-6" transform="translate(0.827586, 0.827586)">
+                            <path d="M18.4476882,9.10344828 L12.9009783,12.6837333 C12.551235,12.9095526 12.0863419,12.8047503 11.8634586,12.4503998 C11.769387,12.3009082 11.7338662,12.1328289 11.7522121,11.9691 C11.7553348,11.9085915 11.7689967,11.848083 11.7908556,11.7919247 L11.8595552,11.4790997 C11.867362,11.4609076 11.8736074,11.4407381 11.8786818,11.4181957 C12.0262297,10.7435059 11.6066159,10.0759348 10.9406984,9.92683869 C10.277123,9.77576513 9.61823162,10.2009067 9.47068368,10.8752009 C9.46638995,10.894184 9.46170589,10.9167264 9.45897352,10.9380823 L7.70557305,15.1614186 C7.70401169,15.1693282 7.70557305,15.1614186 7.70557305,15.1614186 C7.29884035,17.0221544 7.2242857,18.1828897 8.62247815,20.4062811 C9.84853133,22.356 12.401345,22.9314241 14.3253234,21.6892198 L22.3448276,16.51238" id="Stroke-21"></path>
+                            <path d="M22.3448276,13.2413793 L15.7241379,17.3793103" id="Stroke-23"></path>
+                            <path d="M20.6896552,10.7586207 L14.0689655,14.8965517" id="Stroke-25"></path>
+                            <path d="M10.7586207,4.96551724 L5.33371739,8.55119184 C4.99163044,8.77735115 4.53653264,8.67239105 4.31891036,8.3175071 C4.22689814,8.16779043 4.19215493,7.9994582 4.21009923,7.8354828 C4.21315358,7.77488319 4.22651635,7.71428359 4.24789678,7.65804082 L4.31471064,7.34474483 C4.3227283,7.32652534 4.3284552,7.30632547 4.33341852,7.28374915 C4.47811824,6.60804376 4.06730847,5.93946774 3.41635062,5.78975107 C2.76691994,5.63884617 2.12283437,6.0646277 1.97851644,6.73993702 C1.97431671,6.75894866 1.9693534,6.78152498 1.96706264,6.80291308 L0.251664612,11.0330031 C0.250519232,11.0405285 0.251664612,11.0330031 0.251664612,11.0330031 C-0.146164175,12.8961438 -0.219086727,14.0586264 1.14849745,16.2853648 C2.34771072,18.2380187 4.68695926,18.6119143 6.3023274,17.8146137" id="Stroke-27"></path>
+                            <path d="M14.8965517,9.10344828 L12.4137931,10.7586207" id="Stroke-29"></path>
+                            <path d="M13.2413793,6.62068966 L6.62068966,10.7586207" id="Stroke-31"></path>
+                            <path d="M22.3448276,5.79310345 L20.6896552,6.62068966" id="Stroke-33"></path>
+                            <path d="M19.862069,1.65517241 L19.0344828,2.48275862" id="Stroke-35"></path>
+                            <path d="M14.8965517,1.65517241 L15.7241379,0" id="Stroke-37"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="icon/cancel/small-copy" transform="translate(303.000000, 24.000000)" stroke="#037DF9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+                    <path d="M0.4,0.4 L15.6,15.6" id="Stroke-1"></path>
+                    <path d="M0.4,15.6 L15.6,0.4" id="Stroke-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

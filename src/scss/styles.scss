@@ -1,0 +1,12 @@
+//@import url('https://fonts.googleapis.com/css?family=Exo+2|Josefin+Sans|Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,700');
+
+@import 'bootstrap/bootstrap.scss',
+        'bootstrap-rebuild.scss',
+        'utils.scss',
+        'commons.scss',
+        'forms.scss';
+
+@import 'components/header.scss',
+        'components/primary-heading.scss',
+        'components/footer.scss';

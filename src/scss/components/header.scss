@@ -1,0 +1,11 @@
+.rd_logo {
+  @media screen and (max-width: 767px) {
+    max-width: 150px;
+  }
+  @media screen and (min-width: 768px) {
+    max-width: 200px;
+  }
+  @media screen and (min-width: 992px) {
+    max-width: 250px;
+  }
+}

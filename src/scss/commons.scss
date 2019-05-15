@@ -1,0 +1,215 @@
+// Vars
+$text-shadow: 0 1px 2px rgba(4,8,40,0.5);
+$modal-shadow: 1px 3px 10px $nightBlue50;
+
+// ---------------------------
+
+// IoCash theme common styles
+// Common tags
+body, html {
+  overflow-x: hidden;
+
+  *:focus {
+    outline: none!important;
+  }
+
+  @media screen and (max-width: 767px) {
+  }
+  @media screen and (min-width: 768px) {
+  }
+  @media screen and (min-width: 992px) {
+
+  }
+}
+section, .section {
+  @media screen and (max-width: 767px) {
+    margin: 80px 0;
+  }
+  @media screen and (min-width: 768px) {
+    margin: 130px 0;
+  }
+  @media screen and (min-width: 992px) {
+  }
+}
+h1, .h1 {
+
+  @media screen and (max-width: 767px) {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+  @media screen and (min-width: 768px) {
+    font-size: 3.2rem;
+  }
+  @media screen and (min-width: 992px) {
+    font-size: 3.5rem;
+  }
+}
+h2, .h2 {
+  @media screen and (max-width: 767px) {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  @media screen and (min-width: 768px) {
+    font-size: 2.7rem;
+    margin-bottom: 1.5rem;
+  }
+  @media screen and (min-width: 992px) {
+
+  }
+}
+h3, .h3 {
+  @media screen and (max-width: 767px) {
+    font-size: 1.6rem;
+    margin-bottom: 0.8rem;
+  }
+  @media screen and (min-width: 768px) {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+  }
+  @media screen and (min-width: 992px) {
+
+  }
+}
+h4, .h4 {
+
+}
+h5, .h5 {
+
+}
+h5, .h5 {
+
+}
+.display-3 {
+  @media screen and (max-width: 767px) {
+    font-size: 40px;
+  }
+  @media screen and (min-width: 768px) {
+    font-size: 48px;
+  }
+  @media screen and (min-width: 992px) {
+
+  }
+}
+img {
+  max-width: 100%;
+}
+
+// Section with dispositive height
+.rd_screen {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  z-index: 900;
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 0!important;
+
+  & .container {
+    min-height: 100vh;
+  }
+}
+
+// Backgorunds
+.rd_bg {
+
+  h1, .h1, h2, .h2, h3, .h3 {
+    text-shadow: $text-shadow;
+  }
+
+
+  &.rd_bg-primary {
+    background-color: $primary;
+
+    * {
+      color: $white;
+    }
+  }
+
+  &.rd_bg-primary--gradient {
+    background: rgba(3,126,249,1);
+    background: -moz-linear-gradient(top, rgba(3,126,249,1) 0%, rgba(3,11,60,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(3,126,249,1)), color-stop(100%, rgba(3,11,60,1)));
+    background: -webkit-linear-gradient(top, rgba(3,126,249,1) 0%, rgba(3,11,60,1) 100%);
+    background: -o-linear-gradient(top, rgba(3,126,249,1) 0%, rgba(3,11,60,1) 100%);
+    background: -ms-linear-gradient(top, rgba(3,126,249,1) 0%, rgba(3,11,60,1) 100%);
+    background: linear-gradient(to bottom, rgba(3,126,249,1) 0%, rgba(3,11,60,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#037ef9', endColorstr='#030b3c', GradientType=0 );
+
+    &.rd_bg--revert {
+      /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#030b3c+0,037df9+100 */
+      background: rgb(3,11,60); /* Old browsers */
+      background: -moz-linear-gradient(top, rgba(3,11,60,1) 0%, rgba(3,125,249,1) 100%); /* FF3.6-15 */
+      background: -webkit-linear-gradient(top, rgba(3,11,60,1) 0%,rgba(3,125,249,1) 100%); /* Chrome10-25,Safari5.1-6 */
+      background: linear-gradient(to bottom, rgba(3,11,60,1) 0%,rgba(3,125,249,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    }
+
+    * {
+      color: $white;
+    }
+  }
+
+  &.rd_bg-night-blue {
+    background-color: darken($nightBlue, 5%);
+
+    * {
+      color: $white;
+    }
+  }
+
+  &.rd_bg-employees {
+    background-color: $primary;
+    background-image: url('../img/fondo1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+    * {
+      color: $white;
+    }
+  }
+}
+
+.btn {
+  border-radius: $btn-border-radius;
+
+  @media screen and (max-width: 767px) {
+    min-width: 180px;
+  }
+  @media screen and (min-width: 768px) {
+    min-width: 180px;
+  }
+  @media screen and (min-width: 992px) {
+    min-width: 279px;
+  }
+
+  &.btn-primary {}
+}
+
+.modal-content {
+  border-radius: $border-radius-lg;
+  box-shadow: $modal-shadow;
+
+  .close {
+    img {
+      width: 15px;
+      height: 15px;
+    }
+  }
+}
+/*
+@media screen and (max-width: 767px) {
+
+}
+@media screen and (min-width: 768px) {
+
+}
+@media screen and (min-width: 992px) {
+
+}
+*/

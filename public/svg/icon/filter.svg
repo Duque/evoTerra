@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/filter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Symbols-and-Components" transform="translate(-332.000000, -2993.000000)" stroke="#037DF9">
+            <g id="icon/filter" transform="translate(332.000000, 2993.000000)">
+                <path d="M14.5,13.2002 C19.09,12.0802 22.5,7.9402 22.5,3.0002 L22.5,0.5002 L1.5,0.5002 L1.5,3.0002 C1.5,7.9402 4.91,12.0802 9.5,13.2002" id="Stroke-1"></path>
+                <path d="M0.5,0.5 L23.5,0.5" id="Stroke-3"></path>
+                <polyline id="Stroke-5" points="14.5 13.2002 14.5 21.5002 9.5 23.5002 9.5 13.2002"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

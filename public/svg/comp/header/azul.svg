@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="170px" viewBox="0 0 375 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>comp/header/azul</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="218.732591%" fx="50%" fy="218.732591%" r="217.860392%" gradientTransform="translate(0.500000,2.187326),scale(0.453333,1.000000),rotate(-90.000000),translate(-0.500000,-2.187326)" id="radialGradient-1">
+            <stop stop-color="#030B3C" offset="0%"></stop>
+            <stop stop-color="#037DF9" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-106.000000, -2025.000000)">
+            <g id="comp/header/azul" transform="translate(106.000000, 2025.000000)">
+                <rect id="Rectangle-Copy" fill="url(#radialGradient-1)" fill-rule="evenodd" x="0" y="0" width="375" height="170"></rect>
+                <text id="180" font-family="Karla-Regular, Karla" font-size="50" font-weight="normal" line-spacing="27" fill="#FFFFFF">
+                    <tspan x="149" y="108">180</tspan>
+                </text>
+                <text id="Clapps-restantes" font-family="Karla-Bold, Karla" font-size="12" font-weight="bold" line-spacing="23" fill="#FFFFFF">
+                    <tspan x="139" y="108">Clapps restantes</tspan>
+                </text>
+                <g id="icon/menu/white" transform="translate(35.000000, 42.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+                    <path d="M0.5,0.5 L23.5,0.5" id="Stroke-1"></path>
+                    <path d="M0.5,16.5 L23.5,16.5" id="Stroke-3"></path>
+                    <path d="M0.5,8.5 L23.5,8.5" id="Stroke-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

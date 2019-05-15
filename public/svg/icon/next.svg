@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/next</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Symbols-and-Components" transform="translate(-464.000000, -2993.000000)" stroke="#030B3C">
+            <g id="icon/next" transform="translate(464.000000, 2993.000000)">
+                <path d="M23.5,10.5 L13.5,0.5" id="Stroke-1" transform="translate(18.500000, 5.500000) rotate(-180.000000) translate(-18.500000, -5.500000) "></path>
+                <path d="M23.5,10.5 L13.5,20.5" id="Stroke-3" transform="translate(18.500000, 15.500000) rotate(-180.000000) translate(-18.500000, -15.500000) "></path>
+                <path d="M23.5,10.5 L0.5,10.5" id="Stroke-5" transform="translate(12.000000, 10.500000) rotate(-180.000000) translate(-12.000000, -10.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="26px" viewBox="0 0 40 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/erase</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-273.000000, -2992.000000)" stroke="#030B3C">
+            <g id="icon/erase" transform="translate(274.000000, 2993.000000)">
+                <path d="M11.3523583,1.30416754e-12 L37,0 C37.5522847,-2.75709873e-14 38,0.44771525 38,1 L38,23 C38,23.5522847 37.5522847,24 37,24 L11.3523583,24 C11.0706279,24 10.8019676,23.8811595 10.6124465,23.6727039 L0.611600759,12.6727039 C0.264816435,12.2912734 0.264816435,11.7087266 0.611600759,11.3272961 L10.6124465,0.327296059 C10.8019676,0.118840486 11.0706279,1.31852014e-12 11.3523583,1.30495614e-12 Z" id="Rectangle"></path>
+                <g id="icon/cancel/small" transform="translate(19.000000, 7.000000)" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M0.25,0.25 L9.75,9.75" id="Stroke-1"></path>
+                    <path d="M0.25,9.75 L9.75,0.25" id="Stroke-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

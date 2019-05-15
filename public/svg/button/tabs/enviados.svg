@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="298px" height="88px" viewBox="0 0 298 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>button/tabs/enviados</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-32.8%" y="-101.0%" width="165.5%" height="302.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0117647061   0 0 0 0 0.0431372561   0 0 0 0 0.235294119  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-106.000000, -469.000000)">
+            <g id="button/tabs/enviados" transform="translate(106.000000, 484.000000)">
+                <g id="button/login/off-copy-3">
+                    <rect id="Rectangle" stroke="#037DF9" x="0.5" y="0.5" width="278" height="47" rx="23.5"></rect>
+                    <text id="Recibidos" font-family="Karla-Regular, Karla" font-size="16" font-weight="normal" fill="#037DF9">
+                        <tspan x="38.072" y="29">Recibidos</tspan>
+                    </text>
+                </g>
+                <g id="button/login/on-copy" filter="url(#filter-1)" transform="translate(131.000000, 0.000000)">
+                    <rect id="Rectangle" fill="#037DF9" x="0" y="0" width="148" height="48" rx="24"></rect>
+                    <text id="Enviados" font-family="Karla-Bold, Karla" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="40.724" y="29">Enviados</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

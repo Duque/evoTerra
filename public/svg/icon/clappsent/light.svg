@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/clappsent/light</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.1174198,20.5714286 L11.5912114,12.4091879 L20.5714286,3.42873695 L15.1174198,20.5714286 Z M20.5713182,3.42857143 L11.5911011,12.4084707 L3.42857143,8.8823871 L20.5713182,3.42857143 Z M8.83860603,15.1608131 L4.547126,19.4521412 L8.83860603,15.1608131 Z M10.4949474,16.8170958 L7.69869889,19.6121418 L10.4949474,16.8170958 Z M7.1828716,13.5050821 L4.3866231,16.3001281 L7.1828716,13.5050821 Z" id="path-1"></path>
+    </defs>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-109.000000, -3311.000000)">
+            <g id="icon/clappsent/light" transform="translate(106.000000, 3309.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" stroke="#037DF9" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

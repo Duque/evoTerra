@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hashtag/on</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Symbols-and-Components" transform="translate(-195.000000, -3418.000000)" stroke="#037DF9">
+            <g id="icon/hashtag/on" transform="translate(194.000000, 3417.000000)">
+                <path d="M23,8.75 L3.5,5.75" id="Stroke-1"></path>
+                <path d="M21,18.75 L1.5,15.75" id="Stroke-3"></path>
+                <path d="M8.75,1.5 L5.75,21" id="Stroke-5"></path>
+                <path d="M18.75,3.5 L15.75,23" id="Stroke-7"></path>
+            </g>
+        </g>
+    </g>
+</svg>

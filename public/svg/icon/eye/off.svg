@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="19px" viewBox="0 0 25 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/eye/off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Symbols-and-Components" transform="translate(-105.000000, -3365.000000)" stroke="#037DF9">
+            <g id="icon/eye/off" transform="translate(106.000000, 3363.000000)">
+                <g id="Group" transform="translate(0.000000, 2.000000)">
+                    <path d="M23,9.5 C23,9.5 19,17 11.5,17 C4,17 0,9.5 0,9.5 C0,9.5 4,2 11.5,2 C19,2 23,9.5 23,9.5 Z" id="Stroke-5"></path>
+                    <path d="M16,9.5 C16,11.985 13.985,14 11.5,14 C9.015,14 7,11.985 7,9.5 C7,7.015 9.015,5 11.5,5 C13.985,5 16,7.015 16,9.5 Z" id="Stroke-7"></path>
+                    <path d="M20,0 L3,19" id="Stroke-9"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

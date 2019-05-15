@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="214px" height="104px" viewBox="0 0 214 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>H1/Login/espaciado</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="LucidaGrande, Lucida Grande" font-size="24" font-weight="normal" line-spacing="27">
+        <g id="Symbols-and-Components" transform="translate(-109.000000, -2877.000000)" fill="#030B3C">
+            <g id="H1/Login/espaciado" transform="translate(106.000000, 2871.000000)">
+                <text id="¡Hola!-Ya-puedes-dis">
+                    <tspan x="55.1539375" y="23">¡</tspan>
+                    <tspan x="86.300875" y="27.9023438" font-family="Karla-Regular, Karla">Hola!</tspan>
+                    <tspan x="0" y="54.9023438" font-family="Karla-Regular, Karla">                                                            </tspan>
+                    <tspan x="3.556" y="81.9023438" font-family="Karla-Regular, Karla">Ya puedes disfrutar </tspan>
+                    <tspan x="56.836" y="108.902344" font-family="Karla-Regular, Karla">de Clappy</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

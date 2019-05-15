@@ -1,0 +1,41 @@
+DefaultContentLanguage = "en"
+baseURL = "/"
+title = "evoTerra"
+theme = ""
+canonifyURLs = true
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "evoTerra"
+    weight = 1
+    [[languages.en.menu.main]]
+    identifier = "Home"
+    name = "Home"
+    title = "evoTerra Home"
+    url = "/"
+    weight = -110
+    [languages.en.params]
+        home = "/"
+        contact = "Contact"
+        follow = "FOLLOW US"
+        medium = "Medium"
+        twitter = "Twitter"
+
+  [languages.es]
+    languageName ="Español"
+    title = "evoTerra"
+    weight = 2
+
+  [[languages.es.menu.main]]
+    identifier = "Inicio"
+    name = "Inicio"
+    title = "evoTerra Inicio"
+    url = "/es/"
+    weight = -110
+
+    [languages.es.params]
+        home = '/es/'
+        contact = "Contact"
+        follow = "SÍGUENOS"
+        medium = "Medium"
+        twitter = "Twitter"

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="814px" viewBox="0 0 375 814" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>comp/popup</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="16" y="146" width="343" height="246" rx="24"></rect>
+        <filter x="-4.1%" y="-5.7%" width="109.3%" height="113.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0117647059   0 0 0 0 0.0431372549   0 0 0 0 0.235294118  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-1475.000000, -1181.000000)">
+            <g id="comp/popup" transform="translate(1475.000000, 1181.000000)">
+                <rect id="Rectangle" fill-opacity="0.300158514" fill="#000000" fill-rule="evenodd" x="0" y="0" width="375" height="814"></rect>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="Necesitas-escribir-a" font-family="Karla-Regular, Karla" font-size="20" font-weight="normal" line-spacing="23" fill="#030B3C">
+                    <tspan x="61.06" y="202">Necesitas escribir algo más </tspan>
+                    <tspan x="63.26" y="225">para que tus compis sepan </tspan>
+                    <tspan x="71.28" y="248">por qué les envías Clapps</tspan>
+                </text>
+                <g id="button/on" transform="translate(129.000000, 304.000000)">
+                    <rect id="Rectangle" fill="#037DF9" fill-rule="evenodd" x="0" y="0" width="118" height="48" rx="24"></rect>
+                    <text id="Ok" font-family="Karla-Bold, Karla" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="48.936" y="29">Ok</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

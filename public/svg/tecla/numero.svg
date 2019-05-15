@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tecla/numero</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-106.000000, -4028.000000)">
+            <g id="tecla/numero" transform="translate(106.000000, 4028.000000)">
+                <circle id="Oval" fill-opacity="0.101222826" fill="#037DF9" fill-rule="evenodd" cx="36" cy="36" r="36"></circle>
+                <text id="1" font-family="Karla-Regular, Karla" font-size="30" font-weight="normal" fill="#030B3C">
+                    <tspan x="31.535" y="44">1</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

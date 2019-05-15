@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="299px" height="40px" viewBox="0 0 299 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>comp/filter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-106.000000, -1181.000000)">
+            <g id="comp/filter" transform="translate(106.000000, 1181.000000)">
+                <g id="Group">
+                    <g id="button/ranking/filteroff-copy-2">
+                        <rect id="Rectangle" stroke="#037DF9" x="0.5" y="0.5" width="298" height="39" rx="19.5"></rect>
+                        <text id="filtrar-por-fecha,-#" font-family="Karla-Regular, Karla" font-size="12" font-weight="normal" line-spacing="23" fill="#030B3C" fill-opacity="0.5">
+                            <tspan x="24" y="20">filtrar por fecha, #categoría y @persona</tspan>
+                        </text>
+                        <g id="icon/filter" transform="translate(251.000000, 8.000000)" fill-rule="nonzero" stroke="#037DF9">
+                            <path d="M15.0584644,19.7836287 C15.0584644,20.057106 14.8367195,20.4585695 14.6023786,20.608365 L9.50370838,23.8657006 C9.32092254,23.9824952 9.20140873,24 9.14633863,24 C8.95535087,24 8.94070457,23.6691298 8.94070457,23.5672573 L8.94070457,13.9576727 C8.94070457,13.3665256 8.65861681,12.5343281 8.29948952,12.0614104 L0.410113082,1.67960399 C0.0392687437,1.19119019 -0.087861148,0.745247148 0.060652343,0.4559868 C0.209165834,0.166152522 0.650312417,0 1.27131557,0 L22.7287322,0 C23.3497354,0 23.790882,0.166152522 23.9393955,0.4559868 C24.0879089,0.745247148 23.9604861,1.19119019 23.5899347,1.67960399 L15.6999724,12.0611235 C15.3405522,12.5343281 15.0587574,13.3668125 15.0587574,13.9576727 L15.0587574,19.7836287 L15.0584644,19.7836287 Z" id="72"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

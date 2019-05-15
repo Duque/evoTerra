@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="363px" height="185px" viewBox="0 0 363 185" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>comp/feed/recompensa/on</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="343" height="165" rx="29"></rect>
+        <filter x="-4.5%" y="-8.2%" width="109.6%" height="120.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0117647061   0 0 0 0 0.0431372561   0 0 0 0 0.235294119  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-97.000000, -979.000000)">
+            <g id="comp/feed/recompensa/on" transform="translate(106.000000, 986.000000)">
+                <g id="FEED/NOTIFICATION1" stroke-width="1" fill-rule="evenodd">
+                    <g id="FEED/NOTIFICATION-Copy-5">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <rect stroke-opacity="0.0541779891" stroke="#030B3C" stroke-width="1" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.5" y="0.5" width="342" height="164" rx="29"></rect>
+                        </g>
+                        <text id="Camiseta-Clappy" font-family="Karla-Regular, Karla" font-size="24" font-weight="normal" line-spacing="27" fill="#030B3C">
+                            <tspan x="32" y="47">Camiseta Clappy</tspan>
+                        </text>
+                        <g id="Group-2" transform="translate(279.000000, 24.000000)">
+                            <rect id="Rectangle" fill="#037DF9" x="0" y="0" width="32" height="32" rx="16"></rect>
+                            <text id="30" font-family="Karla-Bold, Karla" font-size="16" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="5.96" y="21">30</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="button/login/on" transform="translate(32.000000, 93.000000)">
+                    <rect id="Rectangle" fill="#037DF9" fill-rule="evenodd" x="0" y="0" width="279" height="48" rx="24"></rect>
+                    <text id="Registrarme" font-family="Karla-Bold, Karla" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="110.352" y="29">Canjear</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/circulo/ON</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Export-Symbols-and-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbols-and-Components" transform="translate(-309.000000, -3152.000000)">
+            <g id="icon/circulo/ON" transform="translate(310.000000, 3153.000000)">
+                <circle id="Oval-Copy" stroke="#037DF9" stroke-width="1" cx="36" cy="36" r="36"></circle>
+                <text id="IO" font-family="Karla-Regular, Karla" font-size="38" font-weight="normal" line-spacing="27" fill="#037DF9">
+                    <tspan x="17" y="57">IO</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
